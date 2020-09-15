@@ -1,0 +1,21 @@
+.todo_list{
+    text-align: center;
+    /* display: flex;
+    flex: 1;
+    margin-right: auto;
+    margin-left: auto; */
+}
+
+.makeStyles-paper-1{
+    text-align: center;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    top: 50%;
+    padding: 30px;
+
+}
+
+.todo_btn{
+    margin: 10px;
+}
